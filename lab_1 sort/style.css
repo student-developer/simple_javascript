@@ -1,0 +1,18 @@
+.array_item, .sorted_array_item {
+  float: left;
+  border: solid black 1px;
+  padding: 2px;
+  margin: 2px;
+}
+.visual_array, .visual_sorted_array {
+  border: solid black 0.5px;
+  display: inline-block;
+  margin: 20px 0px;
+}
+input[type=button] {
+  height: 23px;
+  width: 100px;
+}
+input[type=text] {
+  width: 50px;
+}
